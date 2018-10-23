@@ -1,0 +1,24 @@
+{
+  "name": "velocity_node_routes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "velocityjs": "^0.9.6",
+    "gulp-nodemon": "^1.0.4",
+    "browser-sync": "^2.11.1",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "body-parser": "~1.15.1",
+    "cookie-parser": "~1.4.3",
+    "css-loader": "^0.28.0",
+    "morgan": "~1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
