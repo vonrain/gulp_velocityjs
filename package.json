@@ -8,6 +8,7 @@
     "velocityjs": "^0.9.6",
     "gulp-nodemon": "^1.0.4",
     "browser-sync": "^2.11.1",
+    "bluebird": "^3.5.1",
     "del": "^3.0.0",
     "gulp": "^3.9.1",
     "body-parser": "~1.15.1",

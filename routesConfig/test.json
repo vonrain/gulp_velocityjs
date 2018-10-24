@@ -3,5 +3,6 @@
 	"template": "./index.vm",
 	"renderVar": {
 		"title": "小米"
-	}
+	},
+	"mockUrl": "http://rap2api.taobao.org/app/mock/95244/mockjsdata"
 }]
